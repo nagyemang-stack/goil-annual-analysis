@@ -1,0 +1,19 @@
+{
+  "project": "GOIL PLC Annual Report & KPI Analysis",
+  "author": "Caleb Agyemang",
+  "years_analyzed": "2021\u20132025",
+  "revenue_trend": "Declining \u2014 GHS 21.72B (2023) \u2192 GHS 18.55B (2025), down 14.6%",
+  "pat_trend": "Growing \u2014 GHS 54.7M (2023) \u2192 GHS 90.67M (2025), up 65.7%",
+  "dividend_growth": "+140% over 5 years (GHS 0.025 \u2192 GHS 0.060)",
+  "eps_growth": "+92% over 5 years (GHS 0.12 \u2192 GHS 0.23)",
+  "key_finding": "GOIL demonstrates strong cost optimization: revenue declined 14.6% while PAT grew 66%. Dividend policy is increasingly shareholder-friendly. Disclosure clarity improved significantly between 2023 and 2025 reports.",
+  "disclosure_improvement": "Overall clarity score improved from 53.3 (2023) to 68.7 (2025)",
+  "esg_gap": "ESG reporting remains the weakest disclosure dimension (40/100 in 2025)",
+  "methodology": "Comparative analysis of GOIL PLC annual reports across 5 years, scoring disclosure clarity across 6 dimensions, tracking 8 financial KPIs.",
+  "data_sources": [
+    "GOIL PLC Annual Reports (2021\u20132025)",
+    "Ghana Stock Exchange (GHSE) Filings",
+    "B&FT Ghana",
+    "GOIL Investor Presentations"
+  ]
+}
