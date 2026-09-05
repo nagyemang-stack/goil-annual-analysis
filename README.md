@@ -1,4 +1,5 @@
 # GOIL PLC — Annual Report & KPI Analysis (2021–2025)
+> Portfolio analysis repository. Findings are based on publicly available company materials and clearly identified assumptions; this is not commissioned client work or an official company report.
 
 **Author:** Caleb Agyemang  
 **Portfolio:** [calebagyemang.vercel.app](https://calebagyemang.vercel.app)
